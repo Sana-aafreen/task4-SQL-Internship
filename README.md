@@ -25,4 +25,4 @@ CREATE TABLE employees (
     department VARCHAR(50),
     salary DECIMAL(10,2)
 );
-///////////////////////////////////////
+
